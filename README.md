@@ -2,6 +2,8 @@
 
 Small commandline tool to quickly convert Minato 1866 papertape dump formatted text to a binary file and vice-versa. Useful for uploading and downloading data when using the Minato 1866 with a serial connection.
 
+There is also a `hex2bin` tool that converts from/to a 'hexdump' format. It is similar to `min2bin`. But I have no clue anymore why I wrote it. This code was written in a hurry, about 15 years ago.
+
 From the help file:
 
 ```
