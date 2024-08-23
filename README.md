@@ -1,3 +1,7 @@
+# min2bin
+
+Smaal commandline tool to quickly convert Minato 1866 papertape dump formatted text to a binary file and vice-versa. Useful for uploading and downloading data when using the Minato 1866 with a serial connection.
+
 ```
 Help:
 
