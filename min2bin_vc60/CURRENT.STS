@@ -1,0 +1,36 @@
+[shared-]
+	pmark=
+	version=3
+[debug-]
+	target="d:\projects\vc1.52c\min2bin\min2bin.exe"
+	synonym=;D:\PROJECTS\VC1.52C\MIN2BIN
+	watch=szDummy,s'CPP
+	watch=chChar'CPP
+	watch=szInputLine,s'CPP
+	watch=nOffset'CPP
+	watch=uiAddress'CPP
+	watch=ucBytes,x'CPP
+	srcwin=vs1+ /a+b+c+l+s+t+
+[cv]
+	wndstate=0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1
+	wndstate=1 42 9 0 1 0 1 0 0 0 0 0 0 0 -1
+	wndstate=2 38 9 42 1 0 1 0 0 0 0 0 0 0 -1
+	wndstate=3 80 30 0 10 1 1 0 0 0 398 389 0 0 -1
+	wndstate=4 67 12 3 13 0 0 0 0 0 0 0 0 0 -1
+	wndstate=5 67 9 0 22 0 0 0 0 0 0 0 0 0 -1
+	wndstate=6 67 9 3 25 0 0 0 0 0 0 0 0 0 -1
+	wndstate=7 13 48 67 1 0 0 0 0 0 0 0 0 0 -1
+	wndstate=8 67 9 0 31 0 0 0 0 0 0 0 0 0 -1
+	wndstate=9 80 9 0 40 0 1 0 1 0 1 0 0 0 -1
+	command=use auto
+	command=n10
+	screensize=50
+	command=oh+
+	command=ov+
+	command=oa+
+	command=oc+
+	command=of+
+	command=o3-
+	command=ollf   
+	tracespeed=250
+	callargs=1
