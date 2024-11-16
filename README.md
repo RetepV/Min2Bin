@@ -1,6 +1,7 @@
 # min2bin
 
-NOTE: There used to be a few resources for the Minato 1866 and 1866A eprom programmers here, but they have been moved to their own branch: https://github.com/RetepV/Minato-1866-1866A.
+> [!NOTE]
+> <sup>There used to be a few resources for the Minato 1866 and 1866A eprom programmers here, but they have been moved to their own branch: https://github.com/RetepV/Minato-1866-1866A.</sup>
 
 Small commandline tool to quickly convert Minato 1866 papertape dump formatted text to a binary file and vice-versa. Useful for uploading and downloading data when using the Minato 1866 with a serial connection.
 
